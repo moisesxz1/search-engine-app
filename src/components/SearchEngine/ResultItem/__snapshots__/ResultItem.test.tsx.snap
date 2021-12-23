@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tests on the <ResultItem /> Component It should render <ResultItem /> correctly 1`] = `
+<div>
+  <ForwardRef(ListItem)
+    disablePadding={true}
+  >
+    <ForwardRef(ListItemText)
+      primary="Coffee"
+    />
+  </ForwardRef(ListItem)>
+</div>
+`;

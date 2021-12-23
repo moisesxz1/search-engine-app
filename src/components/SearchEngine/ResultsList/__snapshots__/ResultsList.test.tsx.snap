@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tests on the ResultsList /> Component It should render <ResultsList /> correctly 1`] = `
+<Fragment>
+  <h2>
+    Google Results
+  </h2>
+  <ForwardRef(Box)>
+    <ForwardRef(Divider) />
+    <nav
+      aria-label="secondary mailbox folders"
+    >
+      <ForwardRef(List)>
+        <ResultItem
+          key="Cereal & Granola - Walmart.com"
+          name="Cereal & Granola - Walmart.com"
+        />
+        <ResultItem
+          key="Cereal - Wikipedia"
+          name="Cereal - Wikipedia"
+        />
+        <ResultItem
+          key="How to Choose a Breakfast Cereal - Verywell Fit"
+          name="How to Choose a Breakfast Cereal - Verywell Fit"
+        />
+      </ForwardRef(List)>
+    </nav>
+  </ForwardRef(Box)>
+</Fragment>
+`;
